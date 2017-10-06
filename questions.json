@@ -1,0 +1,29 @@
+
+
+
+[
+{"cloze": "george washington",
+"partial": "was the first president of USA.",
+"fullText": "George Washington was the first president of USA."},
+
+{"cloze":"thomas jefferson",
+"partial": "was the third president of the United States.",
+"fullText": "Thomas Jefferson was the third president of the United States."},
+
+{"cloze": "james monroe",
+"partial": "was the fifth president of the United States?",
+"fullText": "James Monroe was the fifth president of the United States."},
+
+{"cloze":"lawyer",
+"partial": "Abraham Lincoln was a      before he became president.",
+"fullText": "Abraham Lincoln was a lawyer before he became president."},
+
+{"cloze":"john adams",
+"partial": "was the first president who live in the White House.",
+"fullText": "John Adams was the first president who live in the White House"},
+
+{"cloze":"william howard taft",
+"partial": "was the first president who own an automobile.",
+"fullText": "William Howard Taft was the first president who own an automobile"}
+
+]

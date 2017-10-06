@@ -1,0 +1,41 @@
+
+[
+
+{
+"frontCard":"Who was the first president of United States?",
+"backCard":"George Washington",
+"fullText":"George Washigton was the first president of United States."
+},
+
+{
+"frontCard": "Who was the third president of the United States?",
+"backCard": "Thomas Jefferson",
+"fullText": "Thomas Jefferson was the third president of the United States."
+},
+
+{
+"frontCard": "Who was the fifth president of the United States?",
+"backCard": "James Monroe",
+"fullText": "James Monroe was the fifth president of the United States?."
+},
+
+{
+"frontCard": "What was Abraham Lincoln before he became president?",
+"backCard": "Lawyer",
+"fullText": "Abraham Lincoln was a lawyer before he became president."
+},
+
+{
+"frontCard": "Who was the first president who live in the White House?",
+"backCard": "John Adams",
+"fullText": "John Adams was the first president who live in the White House?."
+},
+
+{
+"frontCard": "Who was the first president who own an automobile?",
+"backCard": "William Howard Taft",
+"fullText": "William Howard Taft was the first president who own an automobile?."
+}
+
+
+]
